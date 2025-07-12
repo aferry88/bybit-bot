@@ -5,8 +5,8 @@ import os
 
 # Initialize Bybit
 bybit = ccxt.bybit({
-    'apiKey': os.getenv('API_KEY'),
-    'secret': os.getenv('API_SECRET'),
+    'apiKey': os.getenv(s5ClZo03oKNBRiAajv),
+    'secret': os.getenv(yTLiiRrhVrL7RUYYiRx8kGhgHSLS3brKsZLs),
     'enableRateLimit': True
 })
 
